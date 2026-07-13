@@ -44,8 +44,7 @@ npx expo start
 ```
 
 ## Laporan 
-https://drive.google.com/drive/u/0/folders/15uJqlek6wsyRjY_pN8kzZd3eg5HOemlp
-
+https://drive.google.com/file/d/1CBMh_Z7i9eihtkLy3FZQwUG-lYzsfU4G/view?usp=sharing
 
 ## Video Demo
 
