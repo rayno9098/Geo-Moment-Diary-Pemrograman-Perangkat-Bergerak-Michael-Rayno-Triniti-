@@ -47,6 +47,10 @@ npx expo start
 
 Tambahkan screenshot aplikasi di sini.
 
+## Laporan 
+
+
+
 ## Video Demo
 
 Tambahkan tautan video YouTube (Public).
@@ -56,6 +60,12 @@ Contoh:
 https://youtu.be/xxxxxxxx
 
 ## Repository
+https://github.com/rayno9098/Geo-Moment-Diary-Pemrograman-Perangkat-Bergerak-Michael-Rayno-Triniti-.git
 
-https://github.com/USERNAME/GeoMomentDiary
 
+## Developpment
+Nama        : Michael Rayno Triniti
+NPM         : 2414370081
+Matkul      : Pemrograman Perangkat Bergerak 
+email       : mrayno28@gmail.com
+No WA       : 0852-7788-0064
