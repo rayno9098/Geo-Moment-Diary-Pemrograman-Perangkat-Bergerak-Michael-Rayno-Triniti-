@@ -43,12 +43,8 @@ npm install
 npx expo start
 ```
 
-## Screenshot
-
-Tambahkan screenshot aplikasi di sini.
-
 ## Laporan 
-
+https://drive.google.com/drive/u/0/folders/15uJqlek6wsyRjY_pN8kzZd3eg5HOemlp
 
 
 ## Video Demo
