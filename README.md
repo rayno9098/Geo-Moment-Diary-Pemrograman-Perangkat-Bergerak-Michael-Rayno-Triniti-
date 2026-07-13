@@ -44,17 +44,16 @@ npx expo start
 ```
 
 ## Laporan 
+
 https://drive.google.com/file/d/1CBMh_Z7i9eihtkLy3FZQwUG-lYzsfU4G/view?usp=sharing
 
 ## Video Demo
 
-Tambahkan tautan video YouTube (Public).
+https://youtu.be/5_QLt8HALD4?si=shX5hdya-2aByJhL
 
-Contoh:
-
-https://youtu.be/xxxxxxxx
 
 ## Repository
+
 https://github.com/rayno9098/Geo-Moment-Diary-Pemrograman-Perangkat-Bergerak-Michael-Rayno-Triniti-.git
 
 
