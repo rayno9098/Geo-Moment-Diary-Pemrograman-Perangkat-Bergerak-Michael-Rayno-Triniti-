@@ -65,3 +65,6 @@ Nama       : Michael Rayno Triniti
 NIM         : 2414370081
 
 Mata Kuliah : Pemrograman Perangkat Bergerak 
+
+## Joki 
+ALFON BUJANG
